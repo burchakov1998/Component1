@@ -362,7 +362,7 @@ button:hover {
     display:none;
   }
   .main-content {
-    border: dashed red;
+    border: dashed rgba(120, 28, 62);
     overflow:auto;
     height:auto;
     padding-right:25px;
