@@ -362,6 +362,7 @@ button:hover {
     display:none;
   }
   .main-content {
+    border: dashed red;
     overflow:auto;
     height:auto;
     padding-right:25px;
@@ -378,6 +379,7 @@ button:hover {
     width:50%;
   }
   .window {
+    
     overflow:auto;
     width:50%;
     height:auto;
