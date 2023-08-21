@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 const item = {
   brand: 'Tiger of Sweden',
